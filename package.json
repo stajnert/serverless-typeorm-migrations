@@ -18,12 +18,6 @@
   "types": "build/index.d.ts",
   "dependencies": {
     "aws-lambda": "^1.0.6",
-    "dotenv": "^8.2.0",
-    "mssql": "^6.2.0",
-    "mysql": "^2.18.1",
-    "pg": "^8.0.3",
-    "sql.js": "^1.2.2",
-    "sqlite3": "^4.2.0",
     "typeorm": "^0.2.24"
   },
   "devDependencies": {
